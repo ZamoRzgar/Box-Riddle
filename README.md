@@ -19,7 +19,7 @@ This program simulates the "100 prisoners and 100 boxes" problem and evaluates v
 1. Clone the repository:
    ```bash
    git clone https://github.com/ZamoRzgar/Box-Riddle.git
-   cd prisoner-box-strategy
+   cd box-riddle
 Install dependencies:
 
 bash
